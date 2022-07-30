@@ -14,3 +14,8 @@ Por os temas do vscode online
 * criar a conta na vercel com o github
 * criar um novo projeto na vercel
 * efetuar alteracoes no site e ver as mudancas na vercel
+
+# Aula 30-07-2022
+
+
+
